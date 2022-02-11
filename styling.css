@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: grey;
+    background-color:lightslategrey;
     padding-top: 30px;
 }
 #input{
@@ -48,4 +48,16 @@ a{
 }
 .ip{
     color: white;
+}
+@media(max-width:800px){
+    .form{
+        text-align: center; 
+       box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.8);
+       
+        width: 78%;
+        margin: 8px auto 0;
+        padding: 23px;
+        background-color: white;
+    
+    }
 }
