@@ -54,4 +54,30 @@ body{
     display: flex;
     padding: 300px;
     justify-content: space-between;
+    color: #fff;
+}
+u{
+    color: green;
+    font-size: larger;
+}
+b{
+    color:white;
+}
+button{
+    background-color: rgb(33, 241, 33);
+    color: white;
+    border-radius: 30px;
+    padding: 10px 10px;
+    margin: 20px;
+    width: 30%;
+    border-style: none;
+    font-family: sans-serif;
+    font-size: 29;
+}
+button:hover{
+    background-color:  rgb(109, 224, 128);
+    
+}
+img{
+    width:40%;
 }
