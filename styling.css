@@ -49,6 +49,7 @@ a{
 .ip{
     color: white;
 }
+
 @media(max-width:800px){
     .form{
         text-align: center; 
